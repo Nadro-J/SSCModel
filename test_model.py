@@ -9,11 +9,9 @@ def random_extras():
 
 def randomize_title(base_title):
     text = base_title
-
     if "nay" in text.lower():
         if random.random() < 0.5:
             text = text.replace("nay", "NAY").replace("Nay", "NAY")
-
     if "vote" in text.lower():
         if random.random() < 0.5:
             text = text.replace("vote", "VOTE").replace("Vote", "VOTE")
@@ -32,9 +30,9 @@ def main():
     print("Model loaded.\n")
 
     base_titles = [
-        "Please vote nay", 
+        "Please vote nay",
         "Please vote nay, thank you!",
-        "Vote nay on this", 
+        "Vote nay on this",
         "Posted in error please vote nay",
         "Wrong amount vote nay",
         "Pre-Image error, vote NAY",
@@ -63,13 +61,15 @@ def main():
         new_title = randomize_title(base_choice)
         test_titles.append(new_title)
 
+    test_titles_array = np.array(test_titles, dtype=object).reshape(-1, 1)
+
     print(f"Running inference on {num_tests} randomized titles...")
-    predictions = model.predict(test_titles, batch_size=1, verbose=0)
+    predictions = model.predict(test_titles_array, batch_size=1, verbose=0)
 
     for title, pred in zip(test_titles, predictions):
-        predicted_label = 1 if pred[0] >= 0.5 else 0
-        outcome = "PASS" if predicted_label == 1 else "FAIL"
-        print(f"Title: {title}\nPrediction: {pred[0]:.4f} => {predicted_label}, {outcome}\n")
+        label_pred = 1 if pred[0] >= 0.5 else 0
+        outcome = "PASS" if label_pred == 1 else "FAIL"
+        print(f"Title: {title}\nPrediction: {pred[0]:.4f} => {label_pred}, {outcome}\n")
 
 if __name__ == "__main__":
     main()
