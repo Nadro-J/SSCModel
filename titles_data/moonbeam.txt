@@ -1,0 +1,93 @@
+Authorize Upgrade for Moonbeam to RT3501
+Burn 100% of Transaction Fees on Moonbeam
+Batch proposal to close channels between Moonbeam and Polkadex
+Batch proposal to set LAOS and EURC as XCM fee assets
+Register Asset xcEURC.s (bridged Circle's EURC) from Pendulum Chain
+LAOS Proposal Open/Accept HRMP channel and Register Asset xcLAOS
+Authorize Upgrade for Moonbeam to RT3401
+[Proposal: 95] Recover Locked PINK Tokens
+[DO NOT VOTE] Register Asset xcEURC.s (bridged Circle's EURC) from Pendulum Chain
+Cancel Referendum 92 (Erroneous Treasury Proposal)
+Dwellir Q1 2025 RPC Services
+Authorize Upgrade of Moonbeam to RT3400
+Direct 80% of PBR Inflation to Treasury on Moonbeam
+Bump XCM Safe Version to 3
+Yaron Zimmermann for Treasury Committee, (Jan-June 2025)
+Maksims Kurajevs for Treasury Committee, (Jan-June 2025)
+Marcel Pérez for Treasury Committee, (Jan-June 2025)
+Ksenija Kuzmina for Treasury Committee, (Jan-June 2025)
+Julio Pérez Cabrera for Treasury Committee, (Jan-June 2025)
+Michele Amurri aka Michele Iceberg for Treasury Committee, (Jan-June 2025)
+Simon Kraus aka Sik for Treasury Committee (Jan-June 2025)
+[Proposal: 79] Return PINK and NCTR from Failed TX
+Authorize Upgrade of Moonbeam to RT3300
+Move 15% of Moonbeam's Sovereign Account on Polkadot to AH-Polkadot
+Initiate opening bidirectional HRMP channels with Mythos, EnergyWebX, Kilt, Polimec, Robonomics
+Proposal Close HRMP channel with Composable Finance
+Fast Track: Closing of Parallel Finance XCM Channel
+[Proposal: 73] Close XCM Channel with Parallel Finance
+Add Sik as additional registrar
+Authorize Upgrade of Moonbeam to RT3200
+SORA Networks Proposal to Open/Accept HRMP channel and Register Assets
+Whitelist: RT3102 Upgrade
+SORA Networks Proposal to Open/Accept HRMP channel and Register Assets
+*PLEASE VOTE NAY* SORA Networks Proposal to Open/Accept HRMP channel and Register Assets
+Proposal to Recover Locked Assets back to Hydration Users
+[Proposal 65] Registering SnowBridge Assets WETH, WBTC and wstETH
+Authorize Upgrade for Moonbeam to RT3100
+Fix Bifrost Treasury BNC Reserve Proposal, Proposal 2: Burn exploiter’s xcBNC
+Fix Bifrost Treasury BNC Reserve Proposal, Proposal 1: Temporarily disable xcBNC transfers on Moonbeam
+Authorize Upgrade for Moonbeam to RT3001
+Cancel Referendum 59
+[PLEASE VOTE NAY] Authorize Upgrade for Moonbeam to RT3000
+[Moonbeam: 58] Activate Collator Offline Feature in Moonbeam
+Season 3 Grant Ecosystem Vote
+Proposal to add Apillon NCTR as xc-20 asset (xcNCTR)
+[Proposal 51] Close XCM Channel with Equilibrium
+Rename asset xcOTP to xcNEURO
+Authorize Upgrade for Moonbeam to RT2901
+[Unique Network] Proposal to Accept\Open Channels & Register xcUNQ.
+Vote Nay (Outdated)
+Authorize Moonbeam Upgrade to RT2801
+[Proposal: MB42] Update Units Per Second Data for Moonbeam Assets
+[Proposal: 41] Register GLMR in AssetHub (Re-do)
+Register Bifrost Inscription Token: BNCS
+Authorize Upgrade of Moonbeam to RT2700
+Register Bifrost Liquid Staking Tokens (LSTs) xcvASTR, xcvMANTA on Moonbeam
+Register GLMR in AssetHub
+Proposal to Register Asset xcPINK
+On-Chain Appointment of Treasury Council Nominees
+Proposal to Accept/Open an HRMP channel with Composable Polkadot and register xcibcMOVR, xcibcPICA, xcibcTIA, xcibcIST, xcibcBLD and xcibcATOM
+Upgrade Moonbeam to RT2602 via Whitelist Track
+Pendulum Proposal to Open/Accept an HRMP channel with Pendulum and register xcPEN
+Accept/Open an HRMP channel with Composable Polkadot and register xcIBCMOVR, xcPICA, xcTIA, xcIST, xcBLD and xcATOM
+[Referendum: 30] Polkadex Proposal Open/Accept HRMP channel and Register Asset xcPDEX
+Cancel MB23
+Cancel MB22
+Proposal to Register Asset xcLDOT
+Emergency Fixing xcvDOT, xcvGLMR, xcFIL, and xcvFIL Asset sufficient to “true” (Seeking for whitelisted fast track)
+Destroying Multichain XC-20 mintable tokens
+Fixing xcvDOT, xcvGLMR, xcFIL, and xcvFIL Asset sufficient to “true” (This had been replaced for whitelisted in proposal #25)
+Please ignore - created in error.
+Emergency Fixing xcvDOT, xcvGLMR, xcFIL, and xcvFIL Asset sufficient to “true” (This had been replaced for whitelisted in proposal #25)
+Provide correct UnitsPerSecond for ZTG Token
+[Whitelist] Upgrade to Runtime 2501
+Cancel RT2500 Upgrade
+Moonbeam Runtime 2500 Upgrade [To be replaced with 2501 - Please Vote Nay]
+Zeitgeist Proposal to Open HRMP Channel & Register Asset xcZTG
+Proposal to Register Asset xcUSDC
+OriginTrail Parachain Proposal Open/Accept HRMP channel and Register Asset xcOTP
+Please Ignore - Created in Error
+List GLMR on the HydraDX Omnipool AMM DEX
+Proposal to Swap Lease Slots with Parachain ID 3342
+Gamma Grant Proposal
+TFA DAO Grant Proposal
+Moonwell Grant Proposal
+BeamSwap Grant Proposal
+Please Ignore - Created in Error
+Please ignore - created in error.
+Convert aUSD to aSEED
+Subsocial Proposal Open/Accept HRMP channel and Register Asset xcSUB
+[Proposal: 2] Register Bifrost Liquid Staking Tokens (LSTs) xcvDOT, xcvGLMR, xcFIL and xcvFIL on Moonbeam
+Proposal: 1 Increase the Collator Active Set in Moonbeam by 4 (3+1 Orbiter)
+Creation of the OpenGov Tech Committee

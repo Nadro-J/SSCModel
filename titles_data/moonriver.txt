@@ -1,0 +1,67 @@
+Authorize Upgrade for Moonriver to RT3501
+Batch proposal to close channels between Moonriver and Khala Network
+[Proposal: 69] Burn 100% of Transaction Fees
+Authorize Upgrade for Moonriver to RT3401
+[Proposal: 67] Bump XCM Safe Version to 3
+Authorize Upgrade for Moonriver to RT3400
+[Proposal: 65] Close XCM Channel with Litmus
+Direct 80% of PBR Inflation to Treasury on Moonriver
+Authorize Upgrade for Moonriver to RT3300
+[Proposal: 62] Move 15% of Moonriver's Sovereign Account on Kusama to AH-Kusama
+Add Sik as additional registrar
+Authorize Upgrade for Moonriver to RT3200
+Authorize Upgrade for Moonriver to RT3100
+Use of Parachain Bond Reserve to Fund Moonriver Grants (June 2024)
+Authorize Upgrade for Moonriver to RT3000
+Authorize Upgrade for Moonriver to RT2901
+Authorize Upgrade for Moonriver to RT2801
+Tinkernet Proposal to Open Channel & Register xcTNKR
+[Proposal MR52] Return User Assets Stuck in Moonriver Sovereign Account
+[Proposal: 51] Update Units Per Second Data for Moonriver Assets
+[Referendum MR50] Moonriver <> Axelar Integration
+Upgrade Moonriver to RT2700
+Register MOVR in Kusama AssetHub
+On-Chain Appointment of Treasury Council Nominees
+Created in Error - Please ignore
+[Proposal: MR45] Root Origin: Fixing xcvKSM, xcvMOVR and xcvBNC Asset sufficient to “true” (Will be decision deposited by Moonbeam)
+Enable the new feature to flag collators offline when not producing blocks
+Upgrade Moonriver to RT2602 via Whitelist Track
+[Proposal MR42]: Cancel MR40 (Upgrade Moonriver to RT2601)
+Root Origin: Fixing xcvKSM, xcvMOVR and xcvBNC Asset sufficient to “true”
+Upgrade Moonriver to RT2601
+[Proposal: MR39] Cancel MR36
+[Proposal: MR38] Hotfix for Kusama Fails to Convert  XCM from V3 -> V2
+Initiate removal of the offline stakefish nodes
+<<please reject>> wrong preimage hash
+Proposal 35: Cancel MR33
+Proposal to Open/Accept HRMP channel with Moonriver and Register Asset xcPICA
+Incorrect Submission
+Change xcvKSM, xcvMOVR and xcvBNC Asset sufficient to “true”
+[Proposal: MR31] Proposal to Swap Lease Slots with Parachain ID 2284
+Whitelist: RT2501 Upgrade - 2nd Try
+Whitelist: RT2501 Upgrade [Execution Failed]
+Runtime 2500 Upgrade
+Runtime 2403
+Proposal to cancel RT2402
+Cancelled - #23 Runtime 2402 Upgrade
+Runtime 2401 Upgrade
+Turing Network Proposal Open/Accept HRMP channel and Register Asset xcTUR
+Cancel Referendum 18 due to incorrect parameter
+Moonriver <> Mangata X channel (Whitelisted to Accelerate)
+[INCORRECT PARAMTER - Replaced with Referendum 19] Moonriver <> Mangata X channel (Whitelisted to Accelerate)
+Cancel Proposal #15 in Favor of Proposal #16
+Moonriver <> Mangata X channel
+Cancel Proposal #12 in Favor of Proposal #13
+Request Process for Moonriver Native XCM Enabled ERC-20  (XC-20) MBF Dapp Listing
+NULL - Check Proposal #13
+Cancel RT2302 Upgrade #8
+Whitelisting execution of Runtime Upgrade RT2302
+Runtime 2302 Upgrade
+On-Chain Remark for Moonriver Treasury Program Renewal - April 2023
+Cancel Proposal #5 Runtime 2301 Upgrade
+[Cancelled] Runtime 2301 Upgrade
+Moonriver <> Mangata channel
+Creation of the OpenGov Tech Committee
+Runtime 2201 Upgrade
+On-Chain Remark for Collator Guidelines and Request for Collator Self-Bond Change
+Standardize XCM/HRMP Channel Opening Proposals and Disclosures
