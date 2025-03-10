@@ -3,6 +3,11 @@ import random
 import numpy as np
 import tensorflow as tf
 
+def clean_text(txt):
+    txt = txt.strip()
+    txt = txt.encode("ascii", errors="ignore").decode()
+    return txt
+
 def random_extras():
     extras = ["!", "??", "...", "!!!", " [ERROR]", " (WRONG)", "", "", "", ""]
     return random.choice(extras)
@@ -20,6 +25,8 @@ def randomize_title(base_title):
         text = random_extras() + " " + text
     if random.random() < 0.3:
         text = text + " " + random_extras()
+
+    text = clean_text(text)
 
     return text.strip()
 
@@ -61,10 +68,10 @@ def main():
         new_title = randomize_title(base_choice)
         test_titles.append(new_title)
 
-    test_titles_array = np.array(test_titles, dtype=object).reshape(-1, 1)
+    test_titles_tensor = tf.constant([[t] for t in test_titles], dtype=tf.string)
 
     print(f"Running inference on {num_tests} randomized titles...")
-    predictions = model.predict(test_titles_array, batch_size=1, verbose=0)
+    predictions = model.predict(test_titles_tensor, batch_size=1, verbose=0)
 
     for title, pred in zip(test_titles, predictions):
         label_pred = 1 if pred[0] >= 0.5 else 0
