@@ -25,9 +25,9 @@ def custom_weighted_loss(y_true, y_pred_logits):
     return tf.reduce_mean(weighted_ce)
 
 def main():
-    learning_rate = 1e-4
-    batch_size = 1024
-    epochs = 300
+    learning_rate = 5e-5
+    batch_size = 512
+    epochs = 600
 
     data_file = "data.csv"
     texts, labels = [], []
