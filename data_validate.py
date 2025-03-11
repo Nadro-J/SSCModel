@@ -2,7 +2,7 @@
 import csv
 
 def main():
-    input_file = "training_data.csv"
+    input_file = "data.csv"
     output_rows = []
 
     with open(input_file, "r", encoding="utf-8") as f:

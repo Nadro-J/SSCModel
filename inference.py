@@ -8,7 +8,7 @@ def main():
         sys.exit(1)
 
     input_text = sys.argv[1]
-    model_path = "classification_model.joblib"
+    model_path = "model.keras"
 
     model = joblib.load(model_path)
 

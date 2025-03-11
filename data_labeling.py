@@ -4,7 +4,7 @@ import csv
 
 def main():
     input_dir = "titles_data"
-    output_csv = "training_data.csv"
+    output_csv = "data.csv"
 
     with open(output_csv, mode="w", encoding="utf-8", newline="") as csvfile:
         writer = csv.writer(csvfile)
