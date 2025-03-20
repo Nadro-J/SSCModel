@@ -41,5 +41,5 @@ r2 = rejection_pattern.detect(title='Small Tips retroactive for Content in Portu
 print(r2)  # {'is_nay_request': True, 'confidence': 0.95, 'explanation': "Contains capitalized 'NAY'"}
 
 r3 = rejection_pattern.detect(title='AIWeb3 Chinese Unit proposal (爱Web3 中文社区提案)', content='Hello everyone in DotSama community, happy new year! This is DrCAO, I am Ex. community manager at Pa')
-print((r3)
+print(r3)
 ```
